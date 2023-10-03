@@ -1,2 +1,2 @@
 # CWH
- source code for sigma web development course 
+ source code for SIGMA web development course 
