@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+    color:rgb(181, 212, 4);
+}
+.heading{/*   for index.html*/
+    display: inline;
+    color:aliceblue;
+}
+p{
+    background-color: rgba(0, 242, 242, 0.445);
+    color: rgb(140, 165, 42);
+}
